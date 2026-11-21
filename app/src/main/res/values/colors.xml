@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="pagbati_cream">#F7F1E3</color>
+    <color name="pagbati_terracotta">#C96F4A</color>
+    <color name="pagbati_red">#A63D2F</color>
+    <color name="pagbati_mustard">#D9A441</color>
+    <color name="pagbati_teal">#2E7D6E</color>
+    <color name="pagbati_green">#5E7D4F</color>
+    <color name="pagbati_brown">#4A2C1D</color>
+</resources>
